@@ -1,8 +1,12 @@
 # IPL-Sports-Analytics-using-SQL
 Two datasets related to IPL (Indian Premier League) cricket matches. One dataset contains ball-by-ball data and the other contains match-wise data.
+
 Create a table named ‘matches’ with appropriate data types for columns
+
 Create a table named ‘deliveries’ with appropriate data types for columns
+
 Import data from csv file ’IPL_matches.csv’ attached in resources to the table ‘matches’ which was created in Q1
+
 Import data from csv file ’IPL_Ball.csv’ attached in resources to the table ‘deliveries’ which was created in Q2
 Select the top 20 rows of the deliveries table after ordering them by id, inning, over, ball in ascending order.
 Select the top 20 rows of the matches table.
